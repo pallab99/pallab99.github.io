@@ -1,0 +1,14 @@
+[
+    {
+      "email": "jiripid610@altpano.com",
+      "password": "123",
+      "confirmPassword": "123",
+      "id": 1
+    },
+    {
+      "email": "test@gmail.com",
+      "password": "123",
+      "confirmPassword": "123",
+      "id": 2
+    }
+  ]
